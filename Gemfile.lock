@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/lyondhill/socket.io-ruby-client.git
+  revision: 8d2ba63204833defcefd7362b794fefdfa595234
+  specs:
+    socketio-client (0.0.2)
+      rest-client
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    mime-types (1.19)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  socketio-client!
